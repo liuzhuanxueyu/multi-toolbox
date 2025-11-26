@@ -1,16 +1,11 @@
 # Multi-Toolbox 个人助理工具箱
 
-<p align="center">
-  <strong>一个功能丰富的个人助理工具箱单页应用</strong><br>
-  集成任务管理、笔记记录、AI 草稿、数据统计等多种实用功能
-</p>
+> 一个功能丰富的个人助理工具箱单页应用，集成任务管理、笔记记录、AI 草稿、数据统计等多种实用功能
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-blue?logo=react" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Vite-7-purple?logo=vite" alt="Vite">
-  <img src="https://img.shields.io/badge/TailwindCSS-3-cyan?logo=tailwindcss" alt="TailwindCSS">
-</p>
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-7-purple?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-cyan?logo=tailwindcss)
 
 ---
 
@@ -268,4 +263,4 @@ npm run preview
 
 ## 📄 许可证
 
-[MIT License](LICENSE)
+MIT License
